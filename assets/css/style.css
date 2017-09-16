@@ -84,11 +84,29 @@ a:focus {
 }
 
 table, th, td {
-    border: 1px solid gray;
+    border: 8px solid gray;
     text-align: center;
     
 }
 
+#service {
+	padding-top: 70px;
+}
+
+#about{
+	padding-top: 100px;
+}
+
+#pillers{
+	padding-top: 100px;
+
+}
+
+.mylist{
+	text-indent: inherit;
+	text-align:center;
+	color: white;
+}
 /*	################################################################
 	BOOTSTRAP MODIFICATIONS & TWEAKS
 ################################################################# */

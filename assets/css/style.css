@@ -260,7 +260,7 @@ table, th, td {
 
 #headerwrap .img-responsive {
 	margin: 0 auto;
-	border-radius: 30%;
+	border-radius: -30%;
 	border: 2px solid white;
 	
 }
